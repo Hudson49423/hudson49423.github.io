@@ -29,6 +29,11 @@ body {
     font-weight: 700;
 }
 
+#me {
+	height: 150px;
+	width: 150px;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
